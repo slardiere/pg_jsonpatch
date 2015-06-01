@@ -1,0 +1,4 @@
+default_version = '0.1'
+comment = 'PG Json Patch Implementation'
+relocatable = true
+require = 'plv8_modules'
