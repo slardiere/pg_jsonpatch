@@ -6,6 +6,6 @@ PLV8 language, and the
 [https://github.com/bruth/jsonpatch-js](https://github.com/bruth/jsonpatch-js)
 javascript implementation.
 
-To permit the use of an existing implementation, it need [plv8_modules]() 
+To permit the use of an existing implementation, it need [plv8_modules](https://github.com/slardiere/plv8_modules) 
 extension. this extension load the javascript implementation in the
 instance.
